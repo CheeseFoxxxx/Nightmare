@@ -12,6 +12,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Pp]ackages/
 /[Uu]ser[Ss]ettings/
 *.log
 
@@ -36,6 +37,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vsconfig
 
 # Gradle cache directory
 .gradle/

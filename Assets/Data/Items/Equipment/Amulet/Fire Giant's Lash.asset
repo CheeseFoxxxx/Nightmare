@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1fa91ee94ee0684898ed72817c832d9, type: 3}
+  m_Name: Fire Giant's Lash
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Fire Giant's Lash
+  icon: {fileID: 1811826115, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  dropChance: 5
+  equipmentType: 2
+  itemCooldown: 0
+  itemEffects: []
+  strength: 2
+  agility: 2
+  intelligency: 2
+  vitality: 2
+  damage: 0
+  critChance: 2
+  critpower: 0
+  health: 10
+  armor: 2
+  evasion: 2
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: c8e417e1754558e4894b3c952fc1f6f6, type: 2}
+    stackSize: 2
+  - data: {fileID: 11400000, guid: e28a37184de8c074eb5f82a633c83d44, type: 2}
+    stackSize: 1
